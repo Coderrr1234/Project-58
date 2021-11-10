@@ -1,0 +1,24 @@
+body {
+ background-color:#FFCDD2;
+  text-align:center;
+}
+h1 {
+ text-align: center;
+}
+img {
+ border-radius:50%;
+ width: 100px;
+
+  
+
+}
+hr {
+ width:110px;
+
+}
+p {
+font-size: 18px;
+ font: sans-serif;
+ color:blue;
+  text-align:center;
+}
